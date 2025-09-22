@@ -26,9 +26,3 @@ A fun **Python game** where you try to guess a randomly generated number within 
  Requirements
 	•	Python 3.x
 	•	No external libraries
-
-⸻
-
- Have fun and keep guessing!
-
-Do you want me to also **shorten the ATM Simulation README** the same way, so both look consistent?
